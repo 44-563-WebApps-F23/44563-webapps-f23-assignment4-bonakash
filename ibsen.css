@@ -58,3 +58,8 @@
     padding: 8px;
   }
   
+  h5:hover {
+    color: rgb(1, 6, 67);
+    border: dotted 2px azure;
+    text-shadow: 1px 1px 2px rgb(0, 255, 174), 0 0 1em rgb(196, 38, 93), 0 0 0.2em rgb(255, 0, 81);
+  }
